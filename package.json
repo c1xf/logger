@@ -1,0 +1,27 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "为了发现以及定位线上问题，开发过程中应当记录好日志。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sssylvan/logger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sssylvan/logger/issues"
+  },
+  "homepage": "https://github.com/sssylvan/logger#readme",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
